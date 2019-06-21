@@ -43,7 +43,23 @@ The workshop and breifing were held at DSTA offices.
 The competition was held at the EXPO max atria.(Level 2) On the day itself 3 test datasets and a new training and validation dataset were released.  
 This was due to a curveball challenge given to us on the afternoon of the first competition day. They gave us around 3 1/2 hours to adapt our models to 4 new classes.
 
+The day was structured as follows:  
 
+For the First day.
+| Time    |                     Activity                     | Remarks                                                                                                    |
+| :------ | :----------------------------------------------: | ---------------------------------------------------------------------------------------------------------- |
+| 10.00AM |            Release of the test_set_1             | This test set was based on the train and validation set given at the start of the competition (11 classes) |
+| 1.30PM  |        Release of the curveball challenge        | New train and validation datasets were released. (4 new classes)                                           |
+| 5.00PM  |             New test_set_2 released              | This allowed us to benchmark our model against a test set we have not seen                                 |
+| 5.30PM  |     Release of the final_submission_test_set     | We were only allowed one submission for the final test set                                                 |
+| 6.00PM  | Deadline of submission for source code and model | Slides were due the next day 8.00AM                                                                        |
+
+For the Second Day.(Not to sure about the accuracy of the timing)
+| Time    |               Activity               | Remarks                                                                                                 |
+| :------ | :----------------------------------: | ------------------------------------------------------------------------------------------------------- |
+| 10.30AM | Pitching/Presentation of top 5 teams | This was when the team's with the top 5 accuracy in the final submission had to present on their models |
+| 3.00PM  |          Release of results          | Nuff Said                                                                                               |
+### About Myself
 
 
 (temp)
