@@ -65,14 +65,14 @@ For the Second Day.(Not to sure about the accuracy of the timing)
 | 3.00PM  |          Release of results          | Nuff Said                                                                                               |
 ### About the Team  
 
-The team, .NEET comprised of:
-* Me, Chuan Hao
+The team, .NEET comprised of(In order of the picture, left to right):
 * Jes
 * David ([Github Profile](https://github.com/David-The-Programmer 'David's GIthub Profile'))
+* Me, Chuan Hao
 * and Sheen Hern
 
-Here's a picture of us together :D.
-
+Here's a picture of us together :D.  
+![Picture of the team](https://github.com/chuanhao01/Brainhack_TIL_2019-write-up/blob/markdown/Content%20for%20readme/Picture_of_whole_team.png 'Picture of the team')  
 
 We formed a team together as we mainly knew each other from either secondary or primary school and all had some interest in AI.
 
