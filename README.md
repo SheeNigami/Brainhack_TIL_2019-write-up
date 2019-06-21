@@ -84,9 +84,24 @@ This section will mainly be going over my thoughts and experiences I had during 
 
 ### Workshop/Breiefing
 
-This was a pretty exciting to me as I only had a background in python and machine learning before coming to the workshop. Through the workshop, I managed to learn the fundemental basics of deep learning and the common libraries used to implement Convolutional Neural Networks(CNN). The workshop introduced me to the world of both deep learning and image classification with deep learning networks.
+This was pretty exciting to me as I only had a background in python and machine learning before coming to the workshop. Through the workshop, I managed to learn the fundamental basics of deep learning and the common libraries used to implement Convolutional Neural Networks(CNN). Working with classic datasets such as the MNST and CIFAR-10 datasets.  
+Furthermore, I managed to get to talk to the mentors that were teaching us, more questions, such as different techniques to improve our model's architecture, as well as what to do later on to prepare for the competition. In addition, I got an insight into how the AI industry is currently developing, such as how AI is implemented into everyday devices and the future of AI as a whole.  
+All in all, I was mainly focused on trying to learn as much as I could in these 2 days about AI and deep learning, asking as many questions as I could to the mentors.
 
+### Prep to the competition  
 
+After discussing with the team, we decided to try out 4 separate approaches to the problem.  
+1. Re-train an existing well-known model's architecture
+2. Do transfer-learning on pre-trained models in keras
+3. Implement object detection to crop out the humans doing the poses in order to train a CNN to just classify the humans.
+4. Some combination of the above(?)
+
+I was mainly trying the last 3 approaches in order to create a model with the best accuracy. So, for the next week, I created the benchmark models notebook and the object detection notebook you can see in the repo. (albeit I had to clean up a lot of the messy code)  
+Through the whole process, I ended up learning how to better work with the keras functional API and the OpenCV library to process images in python. I also worked by looking at other Github repositories to see how they implemented the model for their use case. As a whole, I got a better understanding of how to implement any ideas I had for both the pipeline and model architectures in python.
+
+(Sadly I have no pictures of this time period)
+
+### Competition day itself
 
 (temp)
 This is for me to organise this write up
