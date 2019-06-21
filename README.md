@@ -14,7 +14,7 @@ Note: Before I starting talking about anything, I'd like to point out some thing
 * When I refer to the AI camp, I am refering to the whole event.
 * The competition refers to the time period after the workshop until the 2 days at the EXPO, where the event was held.
 * Competition days refer to the 2 days at the EXPO.
-### About the AI camp 2019
+## About the AI camp 2019
 This camp was hosted by the Defence Science and Technology Agency ([DSTA](https://www.dsta.gov.sg/home 'DSTA Homepage')) as part of their larger event, Brainhack, held every year.(I think)  
 The homepage of the camp can be found here.([Brainhack Today I Learnt 2019(TIL)](https://dsta.gov.sg/til 'TIL Homepage'))  
 The github profile for the camp(and hopefully future camps) can be found [here](https://github.com/brainhack-dsta 'DSTA brainhack-til github profile') 
@@ -61,7 +61,7 @@ For the Second Day.(Not to sure about the accuracy of the timing)
 | :------ | :----------------------------------: | ------------------------------------------------------------------------------------------------------- |
 | 10.30AM | Pitching/Presentation of top 5 teams | This was when the team's with the top 5 accuracy in the final submission had to present on their models |
 | 3.00PM  |          Release of results          | Nuff Said                                                                                               |
-### About Myself
+## About Myself
 
 
 (temp)
