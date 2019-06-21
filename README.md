@@ -46,6 +46,7 @@ This was due to a curveball challenge given to us on the afternoon of the first 
 The day was structured as follows:  
 
 For the First day.
+
 | Time    |                     Activity                     | Remarks                                                                                                    |
 | :------ | :----------------------------------------------: | ---------------------------------------------------------------------------------------------------------- |
 | 10.00AM |            Release of the test_set_1             | This test set was based on the train and validation set given at the start of the competition (11 classes) |
@@ -55,6 +56,7 @@ For the First day.
 | 6.00PM  | Deadline of submission for source code and model | Slides were due the next day 8.00AM                                                                        |
 
 For the Second Day.(Not to sure about the accuracy of the timing)
+
 | Time    |               Activity               | Remarks                                                                                                 |
 | :------ | :----------------------------------: | ------------------------------------------------------------------------------------------------------- |
 | 10.30AM | Pitching/Presentation of top 5 teams | This was when the team's with the top 5 accuracy in the final submission had to present on their models |
