@@ -13,8 +13,10 @@ Note: Before I starting talking about anything, I'd like to point out some thing
 * All credit goes to the respective authors of the github repos and downloaded models used in the notebooks.
 * When I refer to the AI camp, I am refering to the whole event.
 * The competition refers to the time period after the workshop until the 2 days at the EXPO, where the event was held.
-* Competition days refer to the 2 days at the EXPO.
-## About the AI camp 2019
+* Competition days refer to the 2 days at the EXPO.  
+
+### About the AI camp 2019  
+
 This camp was hosted by the Defence Science and Technology Agency ([DSTA](https://www.dsta.gov.sg/home 'DSTA Homepage')) as part of their larger event, Brainhack, held every year.(I think)  
 The homepage of the camp can be found here.([Brainhack Today I Learnt 2019(TIL)](https://dsta.gov.sg/til 'TIL Homepage'))  
 The github profile for the camp(and hopefully future camps) can be found [here](https://github.com/brainhack-dsta 'DSTA brainhack-til github profile') 
@@ -61,7 +63,29 @@ For the Second Day.(Not to sure about the accuracy of the timing)
 | :------ | :----------------------------------: | ------------------------------------------------------------------------------------------------------- |
 | 10.30AM | Pitching/Presentation of top 5 teams | This was when the team's with the top 5 accuracy in the final submission had to present on their models |
 | 3.00PM  |          Release of results          | Nuff Said                                                                                               |
-## About Myself
+### About the Team  
+
+The team, .NEET comprised of:
+* Me, Chuan Hao
+* Jes
+* David ([Github Profile](https://github.com/David-The-Programmer 'David's GIthub Profile'))
+* and Sheen Hern
+
+Here's a picture of us together :D.
+
+
+We formed a team together as we mainly knew each other from either secondary or primary school and all had some interest in AI.
+
+My main role was to deal with the technical parts of the project, such as programming and explaining how the model works. With Jes coming up with the idea and first iteration of our final model's architecture.
+
+## My Experience  
+
+This section will mainly be going over my thoughts and experiences I had during certain time periods in the camp. A final summary of my thoughts and reflection on the camp can be found in the next section.
+
+### Workshop/Breiefing
+
+This was a pretty exciting to me as I only had a background in python and machine learning before coming to the workshop. Through the workshop, I managed to learn the fundemental basics of deep learning and the common libraries used to implement Convolutional Neural Networks(CNN). The workshop introduced me to the world of both deep learning and image classification with deep learning networks.
+
 
 
 (temp)
@@ -70,7 +94,6 @@ This is for me to organise this write up
 2. Quick Links
 3. Introduction
    + About the competition
-   + About me
    + About the team
 4. My experience
    + Workshop/Breif
