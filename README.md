@@ -3,9 +3,12 @@ This is a write-up of my experience at brainhack TIL AI Camp 2019 hosted by DSTA
 The source code to what I did as well as the team's final code is in this respository.  
 For some explaination of how to use the code and what is going on, read the README.md file of the respective python note books. If there is no README file, there will be some sort of explaination in the python notebook itself.
 ## Short Version/TL:DR
-This was my first experience at a hackathon/coding competition, and was also the first time I was exposed to Artifical Intelligence(AI) and deep learning.  
+This was my first experience at a hackathon/coding competition, and was also the first time I was exposed to Artifical Intelligence(AI) and deep learning. Through the camp, we were introduced to the fundementals of deep learning and CNNs for image classification. The challenge was to make a model to classify images into 15 different poses. We managed to get 5th place and won an Amazon Fire 7 tablet for everyone on the team.
 
 ## Quick Links
+* DSTA
+* Brainhack TIL 2019
+* Additional Materials
 
 ## 1. Intoduction
 Note: Before I starting talking about anything, I'd like to point out some things.
@@ -135,12 +138,18 @@ Here the pciture:
 
 We bagan cheering among ourseleves and patting each other on the back. We actually did it! As first years in SP and in our first hackathon we actually managed to get something.(Top 5 were guaranteed something) After calming down, we then began thinking on how we would be presenting our slides later on in the day.  
 
-Well as you can expect, we came in 5th in the end after the [presentation](https://drive.google.com/drive/folders/1MCkEaMff1PRF3aO44LmIlMR4ayXcWy1M?usp=sharing 'Link To Google drive with the other resources'):D. Afterwards, we went around to check out the tech showcase being held at the EXPO at the same time.
+Well as you can expect, we came in 5th in the end after the [presentation](https://drive.google.com/drive/folders/1MCkEaMff1PRF3aO44LmIlMR4ayXcWy1M?usp=sharing 'Link To Google drive with the other resources'):D.  
+Photo of us presenting:  
+![Photo of us preseting, Credit to DSTA for the photo](Content_for_readme/Presentation.png 'Photo of us presenting')
+In the end we won an Amazon Fire 7 tablet for everyone on the team.(Will add picture later on)
+Afterwards, we went around to check out the tech showcase being held by DSTA and some people from the industry at EXPO.
 
 Well this concludes my experience in Brainhack TIL 2019 AI camp. I would like to extend my thanks to the people who helped out in the event, DSTA for hosting the event and my teammates for this wonderful experience.
 
 ## 3. Conlusion
-
+All in all, the camp not only introduced me to deep learning and AI but also built up my interest in the field as a whole. After talking with some of the people in working in AI in DSTA as well as in the industry, I realised there is still a lot more I can research on and do with AI. The camp also showed me that even now, I can start to look more into AI or any field in IT for that matter.  
+I guess the learning point is that age does not really limit what you can do in IT. As long as you go at your own pace, you can achieve great things regards of your age. I am now definitely looking forward to joining more hackathons in the future to not only put my skills ot the test but to also learn more about the vast field of IT.  I am also looking forward to joining the next Brainhack TIL camp next year!  
+![Final Image](Content_for_readme/Final_img.png)
 
 (temp)
 This is for me to organise this write up
