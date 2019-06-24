@@ -165,5 +165,5 @@ I guess the learning point is that age does not really limit what you can do in 
 
 ---
 
-TO-DO
-[ ] Add in image of prize
+TO-DO  
+- [ ] Add in image of prize
