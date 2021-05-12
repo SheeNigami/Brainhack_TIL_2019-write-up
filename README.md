@@ -23,7 +23,6 @@ Final note: The pre-trained models and dataset are in [this google drive link](h
 
 ## 1. Intoduction
 Note: Before I starting talking about anything, I'd like to point out some things.
-* This write-up is based on my experience at the camp, as such it may not fully reflect the views of my teammates/or anyone else for that matter. (If they do make their own write-ups I'll be sure to link them above :D)
 * All credit goes to the respective authors of the Github repos and downloaded models used in the notebooks.
 * When I refer to the AI camp, I am referring to the whole event.
 * The competition refers to the time period after the workshop until the 2 days at the EXPO, where the event was held.
@@ -92,8 +91,6 @@ Here's a picture of us together :D.
 
 We formed a team together as we mainly knew each other from either secondary or primary school and all had some interest in AI.
 
-My main role was to deal with the technical parts of the project, such as programming and explaining how the model works. With Jes coming up with the idea and first iteration of our final model's architecture.
-
 ## 2. My Experience  
 
 This section will mainly be going over my thoughts and experiences I had during certain time periods in the camp. A final summary of my thoughts and reflection on the camp can be found in the next section.
@@ -111,11 +108,6 @@ After discussing with the team, we decided to try out 4 separate approaches to t
 2. Do transfer-learning on pre-trained models in keras
 3. Implement object detection to crop out the humans doing the poses in order to train a CNN to just classify the humans.
 4. Some combination of the above (?)
-
-I was mainly trying the last 3 approaches in order to create a model with the best accuracy. So, for the next week, I created the benchmark models notebook and the object detection notebook you can see in the repo. (albeit I had to clean up a lot of the messy code)  
-Through the whole process, I ended up learning how to better work with the keras functional API and the OpenCV library to process images in python. I also worked by looking at other Github repositories to see how they implemented the model for their use case. As a whole, I got a better understanding of how to implement any ideas I had for both the pipeline and model architectures in python.  
-
-The best results I got were 66% validation accuracy by using transfer learning on a pre-trained Xception model on imageNet, with the last 14 layers being trainable. (The last layer was a dense 11 layer, for the 11 classes at the time)
 
 (Sadly I have no pictures of this time period)
 
@@ -163,7 +155,4 @@ All in all, the camp not only introduced me to deep learning and AI but also bui
 I guess the learning point is that age does not really limit what you can do in IT. As long as you go at your own pace, you can achieve great things regards of your age. I am now definitely looking forward to joining more hackathons in the future to not only put my skills to the test but to also learn more about the vast field of IT.  I am also looking forward to joining the next Brainhack TIL camp next year!  
 ![Final Image](Content_for_readme/Final_img.png)
 
----
-
-TO-DO  
-- [ ] Add in image of prize
+Thanks to my teammate @chuanhao01 for writing the original write-up.
