@@ -155,4 +155,4 @@ All in all, the camp not only introduced me to deep learning and AI but also bui
 I guess the learning point is that age does not really limit what you can do in IT. As long as you go at your own pace, you can achieve great things regards of your age. I am now definitely looking forward to joining more hackathons in the future to not only put my skills to the test but to also learn more about the vast field of IT.  I am also looking forward to joining the next Brainhack TIL camp next year!  
 ![Final Image](Content_for_readme/Final_img.png)
 
-Thanks to my teammate @chuanhao01 for writing the original write-up.
+Thanks to my teammate @chuanhao01(https://github.com/chuanhao01) for writing the original write-up.
